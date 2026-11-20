@@ -13,6 +13,7 @@ spec:
   project: pharma
 
   source:
+    # Replace 'ravdy' with your GitHub username after forking zen-gitops
     repoURL: https://github.com/Tarakananda/helmchats.git
     targetRevision: HEAD
     path: helm-charts
